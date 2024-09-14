@@ -1,0 +1,42 @@
+body{
+    margin-left: 20px;
+}
+
+
+.chat{
+    background-color: rgb(191, 215, 225);
+    padding: 20px;
+    border-radius: 16px;
+    display: inline-block;
+    margin: 6px;
+}
+.msg{
+    background-color: rgb(98, 166, 166);
+    color: white;
+    padding: 5px 15px;
+    border-radius: 16px;
+}
+.btn{
+    height: 60px;
+    width: 150px;
+    background-color: rgb(98, 166, 166);
+    color: white;
+    border-radius: 16px;
+}
+.text{
+    height: 250px;
+    width: 300px;
+    background-color: rgb(98, 166, 166);
+    color: white;
+}
+.button{
+    height: 30px;
+    width: 60px;
+    border-radius: 15px;
+    background-color: rgb(108, 160, 160);
+    color: white;
+    margin-bottom: 5px;
+}
+#in{
+    margin-left: 12px ;
+}
